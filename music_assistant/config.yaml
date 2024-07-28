@@ -21,7 +21,7 @@ map:
 init: false
 advanced: false
 stage: stable
-image: ghcr.io/music-assistant/server
+image: ghcr.io/michaapyr/ma-server-mp
 tmpfs: true
 options:
   log_level: info
