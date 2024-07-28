@@ -21,7 +21,7 @@ map:
 init: false
 advanced: false
 stage: stable
-image: ghcr.io/michaapyr/ma-server-mp
+image: ghcr.io/michaapyr/server
 tmpfs: true
 options:
   log_level: info
